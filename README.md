@@ -1,2 +1,2 @@
 # JavaScript
- 43 exercícios resolvidos.
+ 43 exercícios de JavaScript resolvidos utilizando Node.js.
