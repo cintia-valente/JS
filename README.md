@@ -4,5 +4,5 @@
 # Execução
 
 <ul>
-  <li>Em um terminal execute o comando node "nome_do_arquivo"</li>
+ <li>Em um terminal execute o comando <b>node "nome do exercício"</b></li>
 <ul>
